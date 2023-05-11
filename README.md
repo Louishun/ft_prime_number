@@ -1,0 +1,1 @@
+# ft_prime_number
